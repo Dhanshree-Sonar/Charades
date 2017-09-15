@@ -3,7 +3,7 @@ Charades is a game. You have to "act out" a phrase/word without speaking, while 
 
 ## Prerequisites
 
-- Web browwer which supports javascript
+- Web browser which supports javascript
 - Minimum 2 person to play the game
   
 ## File List
@@ -22,17 +22,19 @@ Charades is a game. You have to "act out" a phrase/word without speaking, while 
 
 ## How to play the game
 
-You need minimun 2 persons to play this game. One person will guess the word and rest of the team will act.
+This game requires minimun 2 people to play. One person will guess the word and rest of the team will act.
 Each player will have 60 seconds to play the game.
 
-1. Click on Play button to start the game. A word will be displayed in the box.
+1. Click on *Play* button to start the game. A word will be displayed in the box.
 2. Explain the word through gestures.
-3. If a player guessed the word then click Thumbs-up button on your right.
-4. If a player could not and wishes to pass then click Thumbs-down button on your left.
-5. Once you click Thumbs-up or Thumbs-down button, next word will be displayed. Follow the Step 2.
-6. Once you start the game a Play button will turn into Pause button. If you want to pause the game, click Pause button.
-7. If you wish to end the game before the timer is up, click the Stop button.
-8. Once the game is over you will see the players score and list of words displayed to the user.
+3. If a player guessed the word then click *Thumbs-up* button on your right.
+4. If a player could not guess and wishes to pass then click *Thumbs-down* button on your left.
+5. Once you click *Thumbs-up* or *Thumbs-down* button, next word will be displayed. Again follow the Step 2 until the timer is up.
+6. Once you start the game a *Play* button will turn into *Pause* button. If you want to pause the game, click the *Pause* button.
+7. If you wish to end the game before the timer is up, click the *Stop* button.
+8. Once the game is over, the player's score along with the list of words displayed, will be shown.
+
+After all members played the game, tally the score. The one who has guessed maximum words will win the game.
 
 
 ## Improvements
