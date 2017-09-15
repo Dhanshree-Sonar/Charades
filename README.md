@@ -1,5 +1,5 @@
 # Charades
-Charades is a game. You have to "act out" a phrase/word without speaking, while the other members of your team try to guess what the phrase/word is.
+Charades is a game. You have to "act out" a phrase/word without speaking, while one member of your team try to guess what the phrase/word is.
 
 ## Prerequisites
 
