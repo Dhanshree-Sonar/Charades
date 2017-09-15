@@ -36,8 +36,8 @@ Each player will have 60 seconds to play the game.
 
 
 ## Improvements
- Currently the wordList.xml has 60 words in it. You can add new word or phrases to this file.
- you have to insert below code to your wordList.xml file.
+ Currently the wordList.xml has 60 words in it. You can add new words or phrases to this file.
+ Insert below code to your wordList.xml file to add new words or phrases.
  
 Add below xml tag to <simpleWords> parent.
  ```
