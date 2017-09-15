@@ -23,7 +23,7 @@ Charades is a scocial fun word guessing game for all ages and parties. You have 
 ## How to play the game
 
 This game requires minimun 2 people to play. One person will guess the word and rest of the team will act.
-Each player will have 60 seconds to play the game.
+Each player will have 60 seconds to play the game. The goal is to guess maximum words in given time.
 
 1. Click on *Play* button to start the game. A word will be displayed in the box.
 2. Explain the word through gestures.
