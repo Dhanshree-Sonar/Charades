@@ -1,0 +1,113 @@
+@media all and (min-width: 50px)   {  p, h1  { font-size:2.1em;  } }
+@media all and (min-width: 100px)  {  p, h1  { font-size:2.2em;  } }
+@media all and (min-width: 200px)  {  p, h1  { font-size:2.4em;  } }
+@media all and (min-width: 300px)  {  p, h1  { font-size:2.6em;  } }
+@media all and (min-width: 400px)  {  p, h1  { font-size:2.8em;  } }
+@media all and (min-width: 500px)  {  p, h1  { font-size:3.0em;  } }
+@media all and (min-width: 600px)  {  p, h1  { font-size:3.2em;  } }
+@media all and (min-width: 700px)  {  p, h1  { font-size:3.4em;  } }
+@media all and (min-width: 800px)  {  p, h1  { font-size:3.6em;  } }
+@media all and (min-width: 900px)  {  p, h1  { font-size:3.8em;  } }
+@media all and (min-width: 1000px) {  p, h1  { font-size:4.0em;  } }
+@media all and (min-width: 1100px) {  p, h1  { font-size:4.2em;  } }
+@media all and (min-width: 1200px) {  p, h1  { font-size:4.4em;  } }
+@media all and (min-width: 1300px) {  p, h1  { font-size:4.6em;  } }
+@media all and (min-width: 1400px) {  p, h1  { font-size:4.8em;  } }
+@media all and (min-width: 1500px) {  p, h1  { font-size:5.0em;  } }
+@media all and (min-width: 1500px) {  p, h1  { font-size:5.2em;  } }
+@media all and (min-width: 1600px) {  p, h1  { font-size:5.4em;  } }
+@media all and (min-width: 1700px) {  p, h1  { font-size:5.6em;  } }
+
+.wordStatus{
+  display: none;
+  vertical-align: middle;
+}
+
+#timerImage{
+  width: 5%;
+  display: inline;
+}
+
+#playOrPause{
+  display: inline;
+}
+
+#stop{
+  display:inline;
+}
+
+.buttonWidth{
+  width: 8%;
+  margin-left: 1%;
+  margin-right: 1%;
+  min-width:48px;
+  min-height:48px;
+}
+
+#pageHearder{
+  text-align: center;
+  font-size: 250%;
+  color: #004080;
+  margin: 20px;
+  display: block;
+}
+
+#pageFooter{
+  text-align: right;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width:30%;
+  margin: 20px;
+  display: block;
+}
+
+#listOfWordsDisplayed{
+  display: none;
+  text-align: center;
+  justify-content: center;
+}
+
+h1, h2{
+  color: #004080;
+}
+
+ul {
+   list-style: none;
+}
+
+body {
+  background-image: url("img/background-image.jpg");
+  background-size: 100% 100%;
+  font-family: "Calibri","Verdana","Times New Roman", Times, serif;
+  min-width: 320px;
+  min-height: 320px;
+}
+
+#listOfWordsDisplayedList{
+  font-size: 120%;
+}
+
+#wordToDisplay{
+  color: #004080;
+  bottom: 0;
+}
+
+#testLable{
+  width: 40%;
+  height: 25%;
+  border: 2px solid;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#countDown{
+  width: 50px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 150%;
+  color: #000080;
+}

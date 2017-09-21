@@ -1,0 +1,46 @@
+<!-- This is main page for Charades Game -->
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name=“viewport” content=“width=device-width,initial-scale=1”>
+  <title>Charades</title>
+  <script type="text/javascript" src ="jsScript.js"></script>
+  <link rel="stylesheet" type="text/css" href="styleSheet.css">
+</head>
+
+<body>
+    <h1 id="pageHearder">Let's Play Charades!</h1>
+
+  <!-- This section is to display the game controls -->
+  <section align="center">
+    <form>
+      <img src="img/thumbs-down.png" id="pass" class="wordStatus buttonWidth" onclick="nextWord()"></img>
+
+
+      <label for="word" id="testLable">
+        <p id="wordToDisplay"></p>
+      </label>
+
+
+      <img src="img/thumbs-up.png" id="correct" class="wordStatus buttonWidth" onclick="correctGuess()"></img><br><br>
+      <img src="img/play-button.png"  id="playOrPause" class="buttonWidth" onclick="startTheGame()"></img>
+      <img src="img/timer.png" id="timerImage"></img>
+      <label for="countDown" id="countDown"></label>
+      <img src="img/stop-button.png" id="stop"  class="buttonWidth" onclick="stopTheGame()"></img>
+    </form>
+  </section>
+
+  <!-- This section is to display the words displayed to user-->
+  <section id = "listOfWordsDisplayed" align="center">
+    <h2> Words Displayed </h2>
+    <section id = "listOfWordsDisplayedList" align="center" >
+    </section>
+  </section>
+
+  <footer id="pageFooter">
+    <em>&copy; 2017 All Rights Reserved Dhanshree Sonar</em>
+  </footer>
+</body>
+
+</html>
