@@ -10,15 +10,14 @@ Charades is a social fun word guessing game for all ages and parties. You have t
 1. index.html
 2. styleSheet.css
 3. jsScript.js
-4. wordList.xml
 4. README.md
 5. img folder which has images
   
 ## How to run
 
-1. Place index.html, styleSheet.css, jsScript.js, wordList.xml and img folder at one location.
+1. Place index.html, styleSheet.css, jsScript.js and img folder at one location.
 2. Open index.html
-3. It will open the game on webpage.
+3. It will open the game on a webpage.
 
 ## How to play the game
 
@@ -38,10 +37,11 @@ After all members played the game, tally the score. The one who has guessed maxi
 
 
 ## Improvements
- Currently the wordList.xml has 60 words in it. You can add new words or phrases to this file.
- Insert below code to your wordList.xml file to add new words or phrases.
+ Currently the wordArrayList[] has 60 words in it. You can add new words or phrases to this file.
+ Use below code to add new words or phrases to the array.
  
-Add below xml tag to <simpleWords> parent.
+Edit wordArrayList[] using below code.
  ```
-<word> word or phrase of your choice </word>
+ 
+ 
  ```
