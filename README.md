@@ -40,8 +40,7 @@ After all members played the game, tally the score. The one who has guessed maxi
  Currently the wordArrayList[] has 60 words in it. You can add new words or phrases to this file.
  Use below code to add new words or phrases to the array.
  
-Edit wordArrayList[] using below code.
- ```
- 
- 
- ```
+Append the phrase/word to the array. Edit wordArrayList[] using below code. 
+  
+  `wordArrayList = [<previous array list>, <new phrase/word>]`
+
