@@ -15,9 +15,10 @@ Charades is a social fun word guessing game for all ages and parties. You have t
   
 ## How to run
 
-1. Place index.html, styleSheet.css, jsScript.js and img folder at one location.
-2. Open index.html
-3. It will open the game on a webpage.
+1. Clone the Github respository.
+  - Clone command: `$ git clone https://github.com/Dhanshree-Sonar/Charades.git`
+  - Open index.html.
+2. You can visit Github hosted version [Click here](https://dhanshree-sonar.github.io/Charades/)
 
 ## How to play the game
 
