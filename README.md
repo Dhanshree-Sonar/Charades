@@ -5,6 +5,11 @@ Charades is a social fun word guessing game for all ages and parties. You have t
 
 - Web browser which supports javascript
 - Minimum 2 person to play the game
+
+## Technologies Used
+- HTML
+- JavaScript
+- CSS
   
 ## File List
 1. index.html
